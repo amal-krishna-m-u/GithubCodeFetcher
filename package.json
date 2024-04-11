@@ -2,7 +2,7 @@
   "name": "githubcodefetcher",
   "version": "1.0.0",
   "description": "This package will help you fetch content from a github repo/file and display it in your react application  with ease",
-  "main": "CodeSnippet.js",
+  "main": "CodeSnippet.jsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
